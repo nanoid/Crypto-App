@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cryptolytics</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_exchange">Exchange</string>
+    <string name="title_settings">Settings</string>
+    <string name="currency_title">All Currencies</string>
+    <string name="favorite_currency_title">Favorite Currencies</string>
+    <string name="favorite_currency">Favorite Currencies</string>
+    <string name="hour">1h</string>
+    <string name="day">1d</string>
+    <string name="seven_day">7d</string>
+    <string name="currency_exchange_title">Currency Exchange</string>
+    <string name="usd">USD</string>
+    <string name="save">Save</string>
+    <string name="rate_us">Rate Us</string>
+</resources>

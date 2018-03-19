@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#292f4a</color>
+    <color name="colorPrimaryDark">#292f4a</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="colorWhite" >#ffffff</color>
+    <color name="colorGray" >#c8c7cc</color>
+    <color name="colorTextCurrency" >#cde2fc</color>
+    <color name="colorBackground" >#162943</color>
+    <color name="red" >#d03734</color>
+    <color name="colorPeriod" >#b0b7bf</color>
+    <color name="colorTextButton">#292f4a</color>
+    <color name="refresh_progress_1">#4C4C4C</color>
+    <color name="refresh_progress_2">#4C4C4C</color>
+    <color name="refresh_progress_3">#4C4C4C</color>
+
+
+</resources>
